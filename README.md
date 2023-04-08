@@ -1,6 +1,6 @@
-# Travel-Salesman-Problem
-##Brute Force - Nearest Neighbor- Minnimum Spanning Tree
-###Ahmet Can Erol
+# Travel Salesman Problem
+## Brute Force - Nearest Neighbor- Minnimum Spanning Tree
+### Ahmet Can Erol
 
 *Bu projemizde amacımız Travel Salesman Problemini; Brute Force, Nearest Neighbour, Minimmum Spaninning Tree algoritmaları kullanarak çözmeye çalışmak. 
 Ve bu çözümlere ulaşırken hangi algoritma yaklaşımının daha uygun olduğunu bulmaktır.*
